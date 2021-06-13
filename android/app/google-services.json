@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "923924292008",
+    "project_id": "midterm2-aacec",
+    "storage_bucket": "midterm2-aacec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923924292008:android:6fa0b2c981c1bb4b0ebd9d",
+        "android_client_info": {
+          "package_name": "ge.edu.btu.ucha.tsereteli.midterm2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923924292008-n9qs6j7ogbppsuoc81qaecl5gt4s2gom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNg_Fo_C4TQsAi-oABDSDUMyBMdp_Ilq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923924292008-n9qs6j7ogbppsuoc81qaecl5gt4s2gom.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "923924292008-2016fjcfcidgm0ffc1rkmmqpekbo7mac.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ge.btu.edu.ucha.tsereteli.midterm1",
+                "app_store_id": "123456789"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
